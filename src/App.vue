@@ -9,7 +9,6 @@
 
 <script>
 import Header from './components/Header.vue';
-//import Main from './components/Main.vue'
 import {mapState, mapMutations, mapActions} from "vuex"
 export default {
   name: 'App',

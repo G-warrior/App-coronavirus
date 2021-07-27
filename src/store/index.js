@@ -16,7 +16,9 @@ export default new Vuex.Store({
       nuevosCasos:'',
       nuevosmuertos:'',
       totalMuertos:'',
-      totalCasos:''
+      totalCasos:'',
+      fecha: new Date()
+
       //Crear icono de carga
   },
   actions: {

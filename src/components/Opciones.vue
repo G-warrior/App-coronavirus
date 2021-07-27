@@ -39,9 +39,7 @@ import {mapState, mapActions, mapMutations} from 'vuex'
             }),  
         },
         created:{
-               setPaises(){
-                    
-                }
+               
         }
     }
 </script>
